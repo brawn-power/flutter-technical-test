@@ -1,4 +1,4 @@
-# Netsells Flutter Technical Test
+# Brawn Flutter Technical Test
 
 We would like you to complete a small app that lets you view reddit posts from [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) and display some information about it.
 
