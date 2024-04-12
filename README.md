@@ -19,5 +19,5 @@ Please create a private git repository (ideally github) and commit your code the
 Once you are done, please bundle your repository and send the bundle file over to your point of contact
 
 ```bash
-git bundle create <yourname>.bundle --all --branches
+git bundle create <yourname>.bundle --all
 ```
